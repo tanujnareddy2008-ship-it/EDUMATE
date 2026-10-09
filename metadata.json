@@ -1,0 +1,6 @@
+{
+  "name": "EDUMATE - Smart Education & Adaptive Learning System",
+  "description": "Smart education system featuring document-grounded analysis, 30-minute monitored practice, adaptive quizzes with PYQs, diagrammatic flowcharts, 2-hour competitive tests, and 50-level educational unlockable games.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
